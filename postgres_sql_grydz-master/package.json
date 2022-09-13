@@ -1,0 +1,29 @@
+{
+  "name": "postgres_grydz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^6.3.1",
+    "@supercharge/collections": "^4.3.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.0",
+    "class-validator": "^0.13.2",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.8",
+    "email-templates": "^9.0.0",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.3",
+    "nodemailer": "^6.7.5",
+    "pg": "^8.7.3",
+    "request": "^2.88.2",
+    "sequelize": "^6.19.0",
+    "validatorjs": "^3.22.1"
+  }
+}
